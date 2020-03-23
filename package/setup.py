@@ -5,7 +5,7 @@ setup(
   packages = ['streamsx.endpoint'],
   include_package_data=True,
   version = streamsx.endpoint.__version__,
-  description = 'IBM Streams endpoint integration',
+  description = 'Endpoint integration for IBM Streams',
   long_description = open('DESC.txt').read(),
   author = 'IBM Streams @ github.com',
   author_email = 'hegermar@de.ibm.com',

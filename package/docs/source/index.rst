@@ -1,8 +1,8 @@
 streamsx.endpoint package
 #########################
 
-IBM Streams endpoint integration
-================================
+Endpoint integration for IBM Streams
+====================================
 
 Provides endpoints within IBM Cloud Pak for Data enviroment that are exposed through the `enpoint-monitor <https://github.com/IBMStreams/endpoint-monitor>`_.
 
