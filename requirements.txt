@@ -1,2 +1,0 @@
-streamsx
-streamsx.toolkits
