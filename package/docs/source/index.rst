@@ -9,7 +9,6 @@ Provides endpoints within IBM Cloud Pak for Data enviroment that are exposed thr
 This package is for use with Streams in Cloud Pak for Data and provides functions to add Streams operators acting as communication endpoints for your Streams application.
 
 * `Streams endpoint monitor <https://github.com/IBMStreams/endpoint-monitor>`_
-* `Streams developer community <https://developer.ibm.com/streamsdev/>`_
 
 .. automodule:: streamsx.endpoint
 
